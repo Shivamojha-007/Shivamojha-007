@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivam ojha
 - 👀 I’m interested in software development, machine learning and DevOps
-- 🌱 I’m currently learning Devops and machine learning
+- 🌱 I’m currently working on Devops and machine learning
 - 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me oshivam23@gmail.com
 
